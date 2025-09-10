@@ -76,8 +76,9 @@ placeholder="What needs to be done?" />
 <style scoped>
 .app {
 max-width: 600px;
-margin: 50px auto;
 padding: 20px;
+margin-left: 435px;
+margin-bottom: 150px;
 border-radius: 8px;
 box-shadow: 0 2px 10px rgba(0,0,0,0.1);
 font-family: sans-serif;
@@ -87,7 +88,9 @@ text-align: center;
 }
 .todo-form {
 display: flex;
-margin-bottom: 20px;
+margin-bottom: 10px;
+
+
 }
 
 .todo-form input {
